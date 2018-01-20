@@ -14,3 +14,6 @@ int main () {
 CRectangle rect, rectb;
 rect.set_values (3,4);
 rectb.set_values (5,6);
+cout<<"Rect area: "<<rect.area()<<endl;
+cout<<"Rectb area: "<<rectb.area()<<endl;
+}
