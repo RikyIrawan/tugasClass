@@ -12,3 +12,5 @@ y = b;
 }
 int main () {
 CRectangle rect, rectb;
+rect.set_values (3,4);
+rectb.set_values (5,6);
