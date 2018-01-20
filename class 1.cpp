@@ -10,3 +10,5 @@ void CRectangle::set_values (int a, int b) {
 x = a;
 y = b;
 }
+int main () {
+CRectangle rect, rectb;
