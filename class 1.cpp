@@ -6,3 +6,7 @@ public:
 void set_values (int,int);
 int area (void) {return (x*y);}
 };
+void CRectangle::set_values (int a, int b) {
+x = a;
+y = b;
+}
