@@ -1,3 +1,4 @@
 #include <iostream>
 using namespace std;
-class CRectangle
+class CRectangle {
+int x, y;
